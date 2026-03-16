@@ -1,0 +1,5 @@
+{
+  "name": "BitAI Miner",
+  "description": "An AI-powered Bitcoin mining simulator and dashboard designed for mobile devices.",
+  "requestFramePermissions": []
+}
